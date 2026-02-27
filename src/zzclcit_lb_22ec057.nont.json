@@ -1,0 +1,11 @@
+{
+  "formatVersion": "1",
+  "header": {
+    "description": "SAP Object Node Type ZZCLCIT_LB_22EC057",
+    "originalLanguage": "en",
+    "abapLanguageVersion": "cloudDevelopment"
+  },
+  "name": "ZZCLCIT_LB_22EC057",
+  "sapObjectType": "ZZCLCIT_LB_22EC057",
+  "rootNode": true
+}
